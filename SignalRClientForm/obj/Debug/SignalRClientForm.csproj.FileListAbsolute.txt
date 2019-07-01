@@ -1,0 +1,16 @@
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\SignalRClientForm.exe.config
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\SignalRClientForm.exe
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\SignalRClientForm.pdb
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.csprojAssemblyReference.cache
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.Form1.resources
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.Properties.Resources.resources
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.csproj.GenerateResource.cache
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.csproj.CoreCompileInputs.cache
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.exe
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.pdb
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\Microsoft.AspNet.SignalR.Client.dll
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\Microsoft.AspNet.SignalR.Client.pdb
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\Microsoft.AspNet.SignalR.Client.xml
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\C#\SignalRClientForm\SignalRClientForm\obj\Debug\SignalRClientForm.csproj.CopyComplete
