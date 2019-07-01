@@ -33,7 +33,7 @@ namespace SignalRClientForm
                     btnOff.Enabled = true;
                     btnEnviar.Enabled = true;
                     lblEstado.Text = "Conectado";
-                    chat.Invoke<string>("Connect", "Desktop").Wait();
+                    chat.Invoke<string>("Connect", "Middleware").Wait();
                 }
             }).Wait();
         }
@@ -80,7 +80,7 @@ namespace SignalRClientForm
                     btnOff.Enabled = true;
                     btnEnviar.Enabled = true;
                     lblEstado.Text = "Conectado";
-                    chat.Invoke<string>("Connect", "Desktop").Wait();
+                    chat.Invoke<string>("Connect", "Middleware").Wait();
                 }
 
             }).Wait();
